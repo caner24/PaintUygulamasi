@@ -21,7 +21,7 @@ namespace Paint_Uygulaması
         {
             InitializeComponent();
         }
-        // ***********************************************        DEVOLOPED BY : CANER24         *********************************************** // 
+        // ***********************************************        DEVELOPED BY : CANER24         *********************************************** // 
 
         // Fırça veya uygulamada olan dikdörtgen gibi şekillere basınca geçiş yapmak için durum değişkeni oluşturuldu.
         int durum;
